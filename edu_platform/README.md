@@ -23,3 +23,7 @@ Django-admin startproject django
 ```shell
 python manage.py runserver 0.0.0.0:8080
 ```
+新建模块
+```shell
+python manage.py startapp user
+```
