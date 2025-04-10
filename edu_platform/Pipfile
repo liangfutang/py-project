@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pip_conf_index_global"
 
 [packages]
+mysqlclient = "2.2.7"
 
 [dev-packages]
 
